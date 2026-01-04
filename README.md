@@ -10,3 +10,17 @@ A smart CLI-based file automation and audit tool built using core Python.
 - Safe: never modifies original files
 
 ## Project Structure
+
+file_audit_tool/
+├── config/
+├── core/
+├── utils/
+├── main.py
+
+
+
+## Usage
+
+```bash
+python main.py --path ./data
+
